@@ -1,4 +1,3 @@
-![masterhead](https://elev8me.com/wp-content/uploads/2023/09/Cyber-Security-for-Enterprise.jpg)
 <h1 align="center">Hi 👋, I'm CECIL</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <br>
