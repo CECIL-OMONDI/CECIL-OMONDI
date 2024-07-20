@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CECIL</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">IF YOU DONT STAND FOR SOMETHING YOU WILL FALL FOR ANYTHING</h3>
 <br>
 <br>
 <img align="right"alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*KpMUnGTGZd2XLecjPeDOfA.gif">
